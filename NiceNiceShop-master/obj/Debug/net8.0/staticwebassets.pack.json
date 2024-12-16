@@ -1,0 +1,1077 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\NNShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\NNShop.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\404.html",
+      "PackagePath": "staticwebassets\\404.html"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\7up.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\7up.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\HangHoa\\209db58e-7090-47e9-8215-3852ad7e0c72_mi-hao-hao.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\209db58e-7090-47e9-8215-3852ad7e0c72_mi-hao-hao.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\HangHoa\\HangHoa\\76fd373b-99e9-4339-a2b3-2f45b201228f_mi_hanquoc.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\HangHoa\\76fd373b-99e9-4339-a2b3-2f45b201228f_mi_hanquoc.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\HangHoa\\cosy_408g.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\cosy_408g.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\HangHoa\\mi_hanquoc.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\mi_hanquoc.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\HangHoa\\pho_de_nhat.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\pho_de_nhat.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\bia_ruby.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\bia_ruby.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\bia_tiger_330ml.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\bia_tiger_330ml.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\ca_moi_3_co_155g.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\ca_moi_3_co_155g.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\chocopie.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\chocopie.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\chuppachup.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\chuppachup.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\coca.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\coca.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\cocazero.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\cocazero.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\cosy_408g.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\cosy_408g.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\cuahangtienloi.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\cuahangtienloi.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\cuahangtienloi1.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\cuahangtienloi1.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\cuahangtienloi2.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\cuahangtienloi2.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\danisa_454g.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\danisa_454g.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\dau_simily_1_lit.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\dau_simily_1_lit.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\dau_simily_2_lit.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\dau_simily_2_lit.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\dau_simily_5_lit.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\dau_simily_5_lit.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\gao_lut_tim_1kg.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\gao_lut_tim_1kg.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\gao_st24_2kg.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\gao_st24_2kg.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\gao_st24_5kg.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\gao_st24_5kg.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\hu_tiu_cungdinh.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\hu_tiu_cungdinh.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\kun_180ml.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\kun_180ml.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\kun_48h_180ml.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\kun_48h_180ml.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\m&m.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\m&m.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\mam_chin_su_500ml.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\mam_chin_su_500ml.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\mam_chin_su_720ml.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\mam_chin_su_720ml.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\mam_nam_ngu_650ml.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\mam_nam_ngu_650ml.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\mi-gau-do.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\mi-gau-do.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\mi-hao-hao.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\mi-hao-hao.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\mi-omachi.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\mi-omachi.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\mi_3mien.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\mi_3mien.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\mi_cungdinh.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\mi_cungdinh.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\mi_hanquoc.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\mi_hanquoc.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\mi_haohao.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\mi_haohao.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\mien_phu_huong.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\mien_phu_huong.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\oreo.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\oreo.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\pate_gan.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\pate_gan.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\pepsi.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\pepsi.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\pho_de_nhat.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\pho_de_nhat.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\sua.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\sua.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\sua_grow_180ml.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\sua_grow_180ml.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\sua_vinamilk_180ml.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\sua_vinamilk_180ml.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\sua_vinamilk_220ml.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\sua_vinamilk_220ml.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\suoi_lavie_500ml.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\suoi_lavie_500ml.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\th_true_milk_180ml.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\th_true_milk_180ml.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\th_true_milk_hop_1_lit.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\th_true_milk_hop_1_lit.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\thit_ap_chao.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\thit_ap_chao.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\tuong_chin_su.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\tuong_chin_su.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\tuong_maggi_700ml.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\tuong_maggi_700ml.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\Hinh\\vinamilk_1_lit.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\vinamilk_1_lit.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\cart.html",
+      "PackagePath": "staticwebassets\\cart.html"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\chackout.html",
+      "PackagePath": "staticwebassets\\chackout.html"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\contact.html",
+      "PackagePath": "staticwebassets\\contact.html"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\contact.html.__projection.g.css",
+      "PackagePath": "staticwebassets\\contact.html.__projection.g.css"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\contact.html.__projection.g.js",
+      "PackagePath": "staticwebassets\\contact.html.__projection.g.js"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\img\\avatar.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\img\\baner-1.png",
+      "PackagePath": "staticwebassets\\img\\baner-1.png"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\img\\banner-fruits.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-fruits.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\img\\best-product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-1.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\img\\best-product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-2.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\img\\best-product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-3.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\img\\best-product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-4.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\img\\best-product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-5.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\img\\best-product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-6.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\img\\cart-page-header-img.jpg",
+      "PackagePath": "staticwebassets\\img\\cart-page-header-img.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\img\\featur-1.jpg",
+      "PackagePath": "staticwebassets\\img\\featur-1.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\img\\featur-2.jpg",
+      "PackagePath": "staticwebassets\\img\\featur-2.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\img\\featur-3.jpg",
+      "PackagePath": "staticwebassets\\img\\featur-3.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\img\\fruite-item-1.jpg",
+      "PackagePath": "staticwebassets\\img\\fruite-item-1.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\img\\fruite-item-2.jpg",
+      "PackagePath": "staticwebassets\\img\\fruite-item-2.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\img\\fruite-item-3.jpg",
+      "PackagePath": "staticwebassets\\img\\fruite-item-3.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\img\\fruite-item-4.jpg",
+      "PackagePath": "staticwebassets\\img\\fruite-item-4.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\img\\fruite-item-5.jpg",
+      "PackagePath": "staticwebassets\\img\\fruite-item-5.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\img\\fruite-item-6.jpg",
+      "PackagePath": "staticwebassets\\img\\fruite-item-6.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\img\\hero-img-1.png",
+      "PackagePath": "staticwebassets\\img\\hero-img-1.png"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\img\\hero-img-2.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-img-2.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\img\\hero-img.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-img.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\img\\payment.png",
+      "PackagePath": "staticwebassets\\img\\payment.png"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\img\\single-item.jpg",
+      "PackagePath": "staticwebassets\\img\\single-item.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\img\\vegetable-item-1.jpg",
+      "PackagePath": "staticwebassets\\img\\vegetable-item-1.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\img\\vegetable-item-2.jpg",
+      "PackagePath": "staticwebassets\\img\\vegetable-item-2.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\img\\vegetable-item-3.png",
+      "PackagePath": "staticwebassets\\img\\vegetable-item-3.png"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\img\\vegetable-item-4.jpg",
+      "PackagePath": "staticwebassets\\img\\vegetable-item-4.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\img\\vegetable-item-5.jpg",
+      "PackagePath": "staticwebassets\\img\\vegetable-item-5.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\img\\vegetable-item-6.jpg",
+      "PackagePath": "staticwebassets\\img\\vegetable-item-6.jpg"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\index.html.__projection.g.css",
+      "PackagePath": "staticwebassets\\index.html.__projection.g.css"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\index.html.__projection.g.js",
+      "PackagePath": "staticwebassets\\index.html.__projection.g.js"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\lightbox\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\lightbox\\images\\close.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\close.png"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\lightbox\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\lightbox\\images\\next.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\next.png"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\lightbox\\images\\prev.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\lightbox\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\shop-detail.html",
+      "PackagePath": "staticwebassets\\shop-detail.html"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\shop.html",
+      "PackagePath": "staticwebassets\\shop.html"
+    },
+    {
+      "Id": "C:\\do_an\\NiceNiceShop-master\\wwwroot\\testimonial.html",
+      "PackagePath": "staticwebassets\\testimonial.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NNShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.NNShop.props",
+      "PackagePath": "build\\NNShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.NNShop.props",
+      "PackagePath": "buildMultiTargeting\\NNShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.NNShop.props",
+      "PackagePath": "buildTransitive\\NNShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

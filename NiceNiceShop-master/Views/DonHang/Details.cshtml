@@ -1,0 +1,62 @@
+﻿@model NNShop.Data.DonHang
+
+@{
+    ViewData["Title"] = "Chi Tiết Đơn Hàng";
+}
+
+<h1>Chi Tiết Đơn Hàng</h1>
+
+<div>
+    <h3>Thông tin Đơn Hàng</h3>
+    <p><strong>Mã Đơn Hàng:</strong> @Model.MaDh</p>
+    <p><strong>Khách Hàng:</strong> @Model.MaKhNavigation?.HoTen</p>
+    <p><strong>Khách Hàng đặt:</strong> @Model.HoTen</p>
+    <p><strong>Nhân Viên Phụ Trách:</strong> @Model.MaNvNavigation?.HoTen</p>
+    <p><strong>Ngày Đặt:</strong> @Model.NgayDat?.ToShortDateString()</p>
+    <p><strong>Ngày Giao:</strong> @Model.NgayGiao?.ToShortDateString()</p>
+    <p><strong>Trạng Thái:</strong> @Model.MaTtNavigation?.TenTrangThai</p>
+    <p><strong>Ghi Chú:</strong> @Model.GhiChu</p>
+</div>
+
+<hr />
+
+<div>
+    <h3>Chi Tiết Sản Phẩm</h3>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Mã Hàng</th>
+                <th>Tên Hàng</th>
+                <th>Số Lượng</th>
+                <th>Đơn Giá</th>
+                <th>Giảm Giá</th>
+                <th>Tổng Tiền</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var chiTiet in Model.ChiTietDonHangs)
+            {
+                <tr>
+                    <td>@chiTiet.MaHh</td>
+                    <td>@chiTiet.MaHhNavigation.TenHh</td>
+                    <td>@chiTiet.SoLuong</td>
+                    <td>@chiTiet.DonGia?.ToString("N0")</td>
+                    <td>@chiTiet.GiamGia?.ToString("N0")</td>
+                    <td>@chiTiet.TongTien?.ToString("N0")</td>
+                </tr>
+            }
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="5" class="text-end"><strong>Thành Tiền:</strong></td>
+                @* <td><strong>@ViewData["TongThanhTien"]?.ToString("N0")</strong></td> *@
+                <td><strong>@((ViewData["TongThanhTien"] as double?)?.ToString("N0") ?? "0")</strong></td>
+
+            </tr>
+        </tfoot>
+    </table>
+</div>
+
+<div>
+    <a asp-action="Index" class="btn btn-secondary">Quay Lại</a>
+</div>

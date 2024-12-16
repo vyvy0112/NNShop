@@ -1,0 +1,35 @@
+﻿@model NNShop.Data.LoaiHh
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Sửa Thông Tin Danh Mục Hàng Hóa</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+@*             <input type="hidden" asp-for="MaLoaiHh" />
+ *@            <div class="form-group">
+                <label> Mã Loại Hàng Hóa</label>
+                <input asp-for="MaLoaiHh" class="form-control" />
+                <span asp-validation-for="MaLoaiHh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TenLoaiHh" class="control-label"></label>
+                <input asp-for="TenLoaiHh" class="form-control" />
+                <span asp-validation-for="TenLoaiHh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Lưu" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Quay Lại</a>
+</div>
+

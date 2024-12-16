@@ -1,0 +1,101 @@
+﻿@model IEnumerable<NNShop.ViewModels.CartItem>
+@{
+	ViewData["Title"] = "Checkout";
+}
+
+<!-- Single Page Header start -->
+<div class="container-fluid page-header py-5">
+	<h1 class="text-center text-white display-6">Đơn Hàng</h1>
+	<ol class="breadcrumb justify-content-center mb-0">
+		<li class="breadcrumb-item"><a asp-action="Index" asp-controller="HangHoa">Hàng Hóa</a></li>
+		<li class="breadcrumb-item"><a asp-action="Index" asp-controller="Cart">Thêm Đơn Hàng</a></li>
+		<li class="breadcrumb-item active text-white">Đơn hàng</li>
+	</ol>
+</div>
+<!-- Single Page Header End -->
+<!-- Checkout Page Start -->
+<div class="container-fluid py-5">
+	<div class="container py-5">
+		<h1 class="mb-4">Chi Tiết Đơn Hàng</h1>
+		<form asp-action="Checkout">
+			<div class="row g-5">
+				<form asp-action="Checkout" asp-controller="Cart">
+					<div class="col-md-12 col-lg-6 col-xl-7">
+						@* <div class="form-check my-3">
+							<input type="checkbox" name="GiongKhachHang" class="form-check-input" id="GiongKhachHang" value="false">
+							<label class="form-check-label" for="GiongKhachHang">Giống thông tin khách hàng?</label>
+						</div> *@
+						<div class="form-item delivery-info">
+							<label class="form-label my-3">Người nhận hàng<sup>*</sup></label>
+							<input type="text" name="HoTen" class="form-control">
+						</div>
+						<div class="form-item delivery-info">
+							<label class="form-label my-3">Địa chỉ nhận hàng<sup>*</sup></label>
+							<input type="text" name="DiaChi" class="form-control" placeholder=" 256 Nguyễn Văn Cừ, An Hòa, Cần Thơ">
+						</div>
+						
+						<div class="form-item delivery-info">
+							<label class="form-label my-3">Mã Khách Hàng<sup>*</sup></label>
+							<input type="text" name="MaKh" class="form-control">
+						</div>
+						<div class="form-item mt-3">
+							<textarea name="GhiChu" class="form-control" spellcheck="false" cols="30" rows="11" placeholder="Ghi chú"></textarea>
+						</div>
+						 <button type="submit" class="btn border-secondary text-uppercase text-primary w-100 mt-2">Đặt hàng</button>
+					</div>
+				</form>
+				<div class="col-md-12 col-lg-6 col-xl-5">
+					<div class="table-responsive">
+						<table class="table">
+							<thead>
+								<tr>
+									<th scope="col">Hàng Hóa</th>
+									<th scope="col">Tên Hàng Hóa</th>
+									<th scope="col">Đơn Giá</th>
+									<th scope="col">Số Lượng</th>
+									<th scope="col">Giảm Giá</th>
+									<th scope="col">Tổng Tiền</th>
+								</tr>
+							</thead>
+							<tbody>
+								@foreach (var item in Model)
+								
+								{
+									<tr>
+										<th scope="row">
+											<div class="d-flex align-items-center mt-2">
+												
+												<img src="~/Hinh/@item.Hinh" class="img-fluid rounded-circle" style="width: 90px; height: 90px;" alt="@item.Hinh">
+											</div>
+										</th>
+										<td class="py-5">@item.TenHH</td>
+										<td class="py-5">@item.DonGia VND</td>
+										<td class="py-5">@item.SoLuong</td>
+										<td class="py-5">@item.GiamGia</td>
+										<td class="py-5">@item.ThanhTien</td>
+										
+									</tr>
+								}
+								<tr>
+									<th scope="row">
+									</th>
+									<td class="py-5"></td>
+									<td class="py-5"></td>
+									<td class="py-5">
+										<p class="mb-0 text-dark py-3">Tổng Cộng<p>
+									</td>
+									<td class="py-5">
+										<div class="py-3 border-bottom border-top">
+											<p class="mb-0 text-dark">@Model.Sum(p => p.ThanhTien).ToString("#,##0") VND</p>
+										</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+			</div>
+		</form>
+	</div>
+</div>
+<!-- Checkout Page End -->

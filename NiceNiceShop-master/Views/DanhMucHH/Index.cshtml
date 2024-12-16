@@ -1,0 +1,41 @@
+﻿@model IEnumerable<NNShop.Data.LoaiHh>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Danh Sách Danh Mục Hàng Hóa</h1>
+<p>
+    <a asp-action="Create">Thêm Danh Mục Hàng Hóa</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <label>Mã Danh Mục</label>
+            </th>
+            <th>
+                <label>Tên Danh Mục Hàng Hóa</label>
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                 @Html.DisplayFor(modelItem => item.MaLoaiHh)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.TenLoaiHh)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.MaLoaiHh">Sửa</a> |
+                <a asp-action="Details" asp-route-id="@item.MaLoaiHh">Mô Tả</a> |
+                <a asp-action="Delete" asp-route-id="@item.MaLoaiHh">Xóa</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

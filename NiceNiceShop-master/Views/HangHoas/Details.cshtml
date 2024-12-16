@@ -1,0 +1,66 @@
+﻿@model NNShop.Data.HangHoa
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Mô Tả Hàng Hóa</h1>
+
+<div>
+    <h4>Hàng Hóa</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            <label>Tên Hàng Hóa</label>
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TenHh)
+        </dd>
+        <dt class = "col-sm-2">
+            <label>Mô Tả</label>
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.MoTa)
+        </dd>
+        <dt class = "col-sm-2">
+            <label>Chi Tiết</label>
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ChiTietHh)
+        </dd>
+        <dt class = "col-sm-2">
+            <label>Đơn Giá</label>
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DonGia)
+        </dd>
+        <dt class = "col-sm-2">
+            <label>Hình Ảnh</label>
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Hinh)
+        </dd>
+        <dt class = "col-sm-2">
+            <label>Giảm Giá</label>
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.GiamGia)
+        </dd>
+        <dt class = "col-sm-2">
+            <label>Số Lượng</label>
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SoLuong)
+        </dd>
+        <dt class = "col-sm-2">
+            <label>Mã Loại</label>
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.MaLoaiHhNavigation.MaLoaiHh)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.MaHh">Sửa</a> |
+    <a asp-action="Index">Quay Lại</a>
+</div>

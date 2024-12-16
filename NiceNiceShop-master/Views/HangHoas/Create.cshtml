@@ -1,0 +1,90 @@
+﻿@model NNShop.ViewModels.ThemHangHoaVM
+
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Thêm Hàng Hóa</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label> Mã Hàng Hóa</label>
+                <input asp-for="MaHh" class="form-control" />
+                <span asp-validation-for="MaHh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TenHh" class="control-label"></label>
+                <input asp-for="TenHh" class="form-control" />
+                <span asp-validation-for="TenHh" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="MaLoaiHh" class="control-label"></label>
+                <select asp-for="MaLoaiHh" class="form-control">
+                    <option value="">-- Chọn loại sản phẩm --</option>
+                    @if (Model?.DSLoaiHh != null && Model.DSLoaiHh.Any())
+                    {
+                        @foreach (var item in Model.DSLoaiHh)
+                        {
+                            <option value="@item.MaLoaiHh">@item.TenLoaiHh</option>
+                        }
+                    }
+                    else
+                    {
+                        <option value="">Không có loại sản phẩm nào</option>
+                    }
+                </select>
+                <span asp-validation-for="MaLoaiHh" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="MoTa" class="control-label"></label>
+                <input asp-for="MoTa" class="form-control" />
+                <span asp-validation-for="MoTa" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="ChiTietHh" class="control-label"></label>
+                <input asp-for="ChiTietHh" class="form-control" />
+                <span asp-validation-for="ChiTietHh" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="DonGia" class="control-label"></label>
+                <input asp-for="DonGia" class="form-control" />
+                <span asp-validation-for="DonGia" class="text-danger"></span>
+            </div>
+            <div class="form-item">
+                <label class="form-label my-3" for="Hinh">Hình<sup>*</sup></label>
+                <input type="file" name="Hinh" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="GiamGia" class="control-label"></label>
+                <input asp-for="GiamGia" class="form-control" />
+                <span asp-validation-for="GiamGia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SoLuong" class="control-label"></label>
+                <input asp-for="SoLuong" class="form-control" />
+                <span asp-validation-for="SoLuong" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Thêm" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Quay Lại</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,25 @@
+﻿@model IEnumerable<dynamic>
+
+<h2>Thống Kê Doanh Thu Theo Sản Phẩm</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Mã Hàng Hóa</th>
+            <th>Tên Hàng Hóa</th>
+            <th>Số Lượng Bán</th>
+            <th>Tổng Doanh Thu</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.MaHh</td>
+                <td>@item.TenHh</td>
+                <td>@item.SoLuongBan</td>
+                <td>@item.TongDoanhThu?.ToString("N0") VNĐ</td>
+            </tr>
+        }
+    </tbody>
+</table>

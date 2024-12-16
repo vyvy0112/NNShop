@@ -1,0 +1,29 @@
+﻿@model NNShop.Data.LoaiHh
+
+<h4> Thêm Danh Mục Hàng Hóa</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label>Mã Danh Mục Hàng Hóa</label>
+                <input asp-for="MaLoaiHh" class="form-control" />
+                <span asp-validation-for="MaLoaiHh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label>Tên Loại Hàng Hóa</label>
+                <input asp-for="TenLoaiHh" class="form-control" />
+                <span asp-validation-for="TenLoaiHh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Thêm" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Quay Lại</a>
+</div>
+

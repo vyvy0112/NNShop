@@ -1,0 +1,53 @@
+﻿@model IEnumerable<NNShop.ViewModels.ThongKeViewModel>
+
+
+<h2>Thống kê doanh thu</h2>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                @if (Model.FirstOrDefault()?.Ngay != null)
+                {
+                    <th>Ngày</th>
+                }
+                else if (Model.FirstOrDefault()?.Thang != null)
+                {
+                    <th>Tháng</th>
+                    <th>Năm</th>
+                }
+                else if (Model.FirstOrDefault()?.Nam != null)
+                {
+                    <th>Năm</th>
+                }
+                <th>Tổng doanh thu</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    @if (item.Ngay != null)
+                    {
+                        <td>@item.Ngay.Value.ToString("dd/MM/yyyy")</td>
+                    }
+                    else if (item.Thang != null && item.Nam != null)
+                    {
+                        <td>@item.Thang</td>
+                        <td>@item.Nam</td>
+                    }
+                    else if (item.Nam != null)
+                    {
+                        <td>@item.Nam</td>
+                    }
+                    <td>@item.TongDoanhThu.ToString("C")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Không có dữ liệu thống kê.</p>
+}
